@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/deejaykeeling/static/css/main.616ba065.css",
+    "main.js": "/deejaykeeling/static/js/main.23153c1b.js",
+    "static/js/453.0257169e.chunk.js": "/deejaykeeling/static/js/453.0257169e.chunk.js",
+    "index.html": "/deejaykeeling/index.html",
+    "main.616ba065.css.map": "/deejaykeeling/static/css/main.616ba065.css.map",
+    "main.23153c1b.js.map": "/deejaykeeling/static/js/main.23153c1b.js.map",
+    "453.0257169e.chunk.js.map": "/deejaykeeling/static/js/453.0257169e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ba065.css",
+    "static/js/main.23153c1b.js"
+  ]
+}
